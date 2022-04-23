@@ -61,9 +61,3 @@ func userPortalDisplay() {
 	fmt.Println("5. Log out as User")
 	fmt.Println()
 }
-
-// func createUser() *customer.Customer {
-
-// 	// c := customer.New()
-// 	return c
-// }
